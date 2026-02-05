@@ -51,21 +51,13 @@ smart-retail-ai-dashboard
 
 ## ⚙️ Setup Instructions
 
-**### Backend Setup
-
 ```bash## ⚙️ Backend Setup
 
 ```
 cd backend
 pip install -r requirements.txt
 python app.py
-
-### Backend runs at http://localhost:5000
-
-
-cd frontend
-npm install
-npm run dev
+## Backend runs at http://localhost:5000
 
 ### Frontend Setup
 ```
@@ -73,7 +65,6 @@ npm run dev
 cd frontend
 npm install
 npm run dev
-
 ### Frontend runs at http://localhost:5173
 
 🎯 Use Cases
